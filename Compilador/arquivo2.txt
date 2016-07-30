@@ -1,0 +1,9 @@
+begin
+ 	number num1;
+	number num2;
+	number media = (num1 + num2)/2;
+	if(verdadeiro) {
+		number boletim;
+		boletim = media;
+	};
+end

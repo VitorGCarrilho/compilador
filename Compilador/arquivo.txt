@@ -1,0 +1,17 @@
+begin
+	number num1 =55  ;
+	number num2 = 27.5;
+
+	number s5oma;
+	number subtracao;
+	number multiplicacao;
+	number divisao;
+	number media;
+
+	
+	soma=num1+ num2;
+	subtracao =num-num2;
+	multiplicacao = num1 * num2;
+	divisao = num1/num2;
+	media = (num1+num2) / 2;	
+end;
